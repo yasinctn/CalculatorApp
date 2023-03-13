@@ -10,4 +10,6 @@
 
 ## Features I Used
 
+-> Application is fully operational
+
 -> Auto Layout
